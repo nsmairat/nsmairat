@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 nilasmairat@gmail.com
-- 😄 Pronouns: ask me lol
+- 😄 Pronounciation: ask me later lol
 - ⚡ Fun fact: Some people think I'm funny, other don't lol
 
 <!---
